@@ -148,3 +148,7 @@ Official site: **https://learn.mengstone.com/**
 - 由萌石科技团队维护。
 
 **官网：https://learn.mengstone.com/**
+
+---
+
+**双语实测页 / Bilingual review:** https://github.com/zhangxinshi/mengstone-site-reviews/blob/main/sites/learn.md
